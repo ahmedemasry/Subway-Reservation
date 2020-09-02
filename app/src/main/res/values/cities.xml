@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities">
+        <item>Alexandria</item>
+        <item>Damanhour</item>
+        <item>Tanta</item>
+        <item>Cairo</item>
+        <item>Luxor</item>
+        <item>Aswan</item>
+    </string-array>
+
+    <integer name="Alexandria">0</integer>
+    <integer name="Damanhour">1</integer>
+    <integer name="Tanta">2</integer>
+    <integer name="Cairo">3</integer>
+    <integer name="Luxor">7</integer>
+    <integer name="Aswan">8</integer>
+
+
+</resources>

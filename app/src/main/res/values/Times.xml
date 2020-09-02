@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="ToSouth">
+        <item>12</item>
+        <item>15</item>
+        <item>18</item>
+    </integer-array>
+
+    <integer-array name="ToNorth">
+        <item>6</item>
+        <item>12</item>
+        <item>21</item>
+    </integer-array>
+
+</resources>
